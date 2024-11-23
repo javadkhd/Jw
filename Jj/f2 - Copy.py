@@ -1,2 +1,0 @@
-print("Akbar") 
-print("ss")
